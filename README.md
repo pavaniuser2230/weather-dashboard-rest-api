@@ -1,8 +1,8 @@
-# 🌤️ Real-Time Weather Dashboard
+# Real-Time Weather Dashboard
 
 A modern, fully-featured weather dashboard that demonstrates key concepts in asynchronous JavaScript and RESTful API integration.
 
-## 📋 Project Overview
+## Project Overview
 
 This project showcases professional-level web development practices including:
 - **Modern Fetch API** with async/await patterns
@@ -12,15 +12,15 @@ This project showcases professional-level web development practices including:
 - **Search functionality** with city suggestions
 - **Responsive design** for mobile and desktop devices
 
-## ✨ Key Features
+##  Key Features
 
-### 🎯 Core Functionality
-- ✅ Real-time weather data fetching from OpenWeatherMap API
-- ✅ Search weather by city name with autocomplete suggestions
-- ✅ Display of current conditions (temperature, humidity, wind speed)
-- ✅ Sunrise/sunset times, UV index, pressure, visibility
-- ✅ Cloud coverage and "feels like" temperature
-- ✅ Beautiful, responsive UI with smooth animations
+###  Core Functionality
+-  Real-time weather data fetching from OpenWeatherMap API
+-  Search weather by city name with autocomplete suggestions
+-  Display of current conditions (temperature, humidity, wind speed)
+-  Sunrise/sunset times, UV index, pressure, visibility
+- Cloud coverage and "feels like" temperature
+-  Beautiful, responsive UI with smooth animations
 
 ### 🔧 Technical Highlights
 - **Async/Await**: Modern asynchronous programming pattern
